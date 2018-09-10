@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: order-service
+  cloud:
+    config:
+      uri: http://localhost:5050
+      enabled: true
+      fail-fast: true
+      
+management:
+  security:
+    enabled: false

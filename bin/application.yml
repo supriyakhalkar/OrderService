@@ -1,0 +1,5 @@
+---
+user:
+  discountFactor: 3
+server:
+  port: 4040
